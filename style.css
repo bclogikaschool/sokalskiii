@@ -58,3 +58,9 @@ footer a {
     padding: 10px 25px;
     border-radius: 10px;
 }
+.main_img{
+    margin:110px;
+    padding: 0px 0px;
+    border-radius: 30px;
+    border: 70px solid green;
+}
